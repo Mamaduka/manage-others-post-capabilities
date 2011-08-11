@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Manage Others Posts Capabilities ===
 Contributors: Mamaduka
 Donate link: 
 Tags: capabilities
